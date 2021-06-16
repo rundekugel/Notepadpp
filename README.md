@@ -1,3 +1,3 @@
-# Notepad++ Function List for Spice
+# Notepad++ stuff
 
-copy spice.xml to user\Roaming\Notepad++\functionList
+Stuff for Notepad++
